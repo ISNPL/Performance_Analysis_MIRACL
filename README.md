@@ -8,6 +8,7 @@ OS: Ubuntu 20.04.2 LTS (64-bit)
 Memory: 8 GB
 Processor: ARM Cortex-A72 @ 1.5 GHz (4 cores)
 Library: MIRACL Cryptographic Library
+- https://github.com/miracl/MIRACL
 
 ⚙️ Execution Guide
 Each cryptographic module inside the Code/ directory can be executed independently.
